@@ -48,9 +48,9 @@ It is built using clean **OOP design**, and demonstrates how LRU caches are buil
 
 ```python
 https://github.com/Muhammad-Zunain/LRU-Cache-Project
-cd Online-Bank-System
+cd LRU-Cache-Project
 pip install customtkinter CTkMessagebox
-python RUN.py
+python LRU.py
 ```
 ---
 ## 📸 Screenshots
