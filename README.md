@@ -66,4 +66,8 @@ python LRU.py
 #### Cache Hit
 ![image](https://github.com/user-attachments/assets/17358d5f-be1b-452d-b5e2-516b14da03ba)
 
+---
+## 🤝 Contributors
+- [**Usman Faizyab Khan**](https://github.com/USMAN-FAIZYAB-KHAN)  
+- [**Muhammad Zunain**](https://github.com/Muhammad-Zunain)
 
